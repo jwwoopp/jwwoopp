@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">
-  <p>A front-end developer<br/>who loves building small, cute, and useful things.</p>
+  <p>A front-end developer<br/>interested in user experience and clean code.</p>
 </div>
 
 <br/>
