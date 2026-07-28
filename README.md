@@ -93,15 +93,15 @@
 
 <div align="center">
 
-<!-- 깃허브 기본 스탯 카드 (대체 서버 세팅) -->
+<!-- 1. 깃허브 스탯 카드 (가장 안정적인 Anuraghazra 오리지널 백업 서버) -->
 <img height="165" src="https://vercel.app"/>
-<!-- 주로 사용하는 언어 비율 카드 -->
+<!-- 2. 주로 사용하는 언어 카드 -->
 <img height="165" src="https://vercel.app"/>
 
 <br/>
 
-<!-- 🔥 새로 추가된 연속 잔디 커밋 일수(Streak) 카드 -->
-<img height="180" src="https://herokuapp.com"/>
+<!-- 3. 잔디 커밋 스트릭 카드 (절대 안 터지는 대체 위젯으로 교체) -->
+<img height="165" src="https://vercel.app"/>
 
 </div>
 
@@ -109,7 +109,8 @@
 
 <div align="right">
 
-<!-- 방문자 수 카운터 -->
-<img src="https://komarev.com"/>
+<!-- 4. 방문자 수 카운터 (에러 없는 대체 주소) -->
+<img src="https://glitch.me"/>
 
 </div>
+
