@@ -85,7 +85,7 @@
 - FastAPI 백엔드 API 연동
 - MediaPipe 기반 비언어 분석 기능 구현
 
-🔗 [HCR Frontend Repository](https://github.com/HirecareRay/hcr-web)
+🔗 [HCR Frontend Repository](https://github.com)
 
 <br/>
 
@@ -93,8 +93,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jwwoopp&show_icons=true&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwwoopp&layout=compact&hide_border=true"/>
+<img height="165" src="https://vercel.app"/>
+<img height="165" src="https://vercel.app"/>
 
 </div>
 
@@ -102,7 +102,6 @@
 
 <div align="right">
 
-<img src="https://komarev.com/ghpvc/?username=jwwoopp&style=flat-square&color=D1A7D8&label=hits"/>
+<img src="https://komarev.com"/>
 
 </div>
-
