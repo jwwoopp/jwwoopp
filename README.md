@@ -89,12 +89,19 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streak
 
 <div align="center">
 
+<!-- 깃허브 기본 스탯 카드 (대체 서버 세팅) -->
 <img height="165" src="https://vercel.app"/>
+<!-- 주로 사용하는 언어 비율 카드 -->
 <img height="165" src="https://vercel.app"/>
+
+<br/>
+
+<!-- 🔥 새로 추가된 연속 잔디 커밋 일수(Streak) 카드 -->
+<img height="180" src="https://herokuapp.com"/>
 
 </div>
 
@@ -102,6 +109,7 @@
 
 <div align="right">
 
+<!-- 방문자 수 카운터 -->
 <img src="https://komarev.com"/>
 
 </div>
