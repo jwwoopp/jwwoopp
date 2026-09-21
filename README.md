@@ -23,7 +23,8 @@
 - Python / Database / RAG 기초
 - Figma 기반 UI 설계
 - Maya 모델링 · 리깅 · 애니메이션
+## 📊 GitHub Activity
 
-최근에는  
-**Animation → Hit → VFX → Gameplay State → UI**  
-로 이어지는 전투 피드백 구조를 이해하고 직접 구현하는 데 집중하고 있습니다.
+![GitHub Streak](https://streak-stats.demolab.com?user=jwwoopp)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jwwoopp&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernamejwwoopp&layout=compact)
