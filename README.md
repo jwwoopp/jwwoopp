@@ -1,4 +1,4 @@
-## 🌱 What I'm Learning
+## 🌱 Learning
 
 현재는 **C++와 Unreal Engine 기반 게임 클라이언트 개발**을 공부하고 있습니다.
 
